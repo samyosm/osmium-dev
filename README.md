@@ -4,7 +4,7 @@ Hi 👋 My name is Samy Rahmani
 Full Stack developer, designer and SEO Expert
 ---------------------------------------------
 
-I started coding Java when I was 10, but I quickly switch to coding website. With time, I mastered Web Development, UX/UI and SEO. I have done most of my learning by reading books, following course on the internet (on YouTube, Openclassroom, or even Udemy.) After years of programming, I developed \*mobile apps\* (android only), countless \*website\*—of type such as e-commerce, link shortener, and even social media—countless \*desktop app\*—using electron and UWP—and finally, a lot of \*games\*—mostly on Unity, but I started creating a game engine with C++.
+I started coding Java when I was 10, but I quickly switch to coding website. With time, I mastered Web Development, UX/UI and SEO. I have done most of my learning by reading books, following course on the internet (on YouTube, Openclassroom, or even Udemy.) After years of programming, I developed *mobile apps* (android only), countless *website*—of type such as e-commerce, link shortener, and even social media—countless *desktop app*—using electron and UWP—and finally, a lot of *games*—mostly on Unity, but I started creating a game engine with C++.
 
 * 🌍  I'm based in Canada, Montreal
 * ✉️  You can contact me at [samy.osmium@gmail.com](mailto:samy.osmium@gmail.com)
