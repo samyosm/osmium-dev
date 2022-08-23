@@ -8,7 +8,7 @@ I started coding Java when I was 10, but I quickly switch to coding website. Wit
 
 * 🌍  I'm based in Canada, Montreal
 * ✉️  You can contact me at [samy.osmium@gmail.com](mailto:samy.osmium@gmail.com)
-* 🚀  I'm currently working on [a discord bot](http://github.com/osmium-dev/REFE-BOT)
+* 🚀  I'm currently working on markdown supportive block text editor
 
 ### Skills
 
